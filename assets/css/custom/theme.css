@@ -476,6 +476,9 @@ header #st-logo img {
 }
 
 .hero-section-2 .second-headline {
+    padding-right: 90px;
+    padding-left: 90px;
+    font-size: 24px;
     margin-top: 5px;
     top: 540px;
 }
